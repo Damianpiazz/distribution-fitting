@@ -1,0 +1,72 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+.env/
+
+# =========================
+# IDE / Editors
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-*
+*.project
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =========================
+# Packaging / Build
+# =========================
+*.egg-info/
+dist/
+build/
+*.whl
+*.egg
+.pip_packages/
+
+# =========================
+# Testing
+# =========================
+.pytest_cache/
+htmlcov/
+.coverage
+coverage/
+*.cover
+.coverage.*
+hypothesis/
+
+# =========================
+# Jupyter / Notebooks
+# =========================
+.ipynb_checkpoints/
+*.ipynb
+
+# =========================
+# matplotlib
+# =========================
+.matplotlib/
+
+# =========================
+# Python warnings / misc
+# =========================
+warnings.log
+*.log
